@@ -1,0 +1,10 @@
+Honey,Programmer,30000
+Hi,Software Engineer,1000
+Hong,Accountant,300000
+Min,Product Manager,50000
+Micheal,Programmer,1000
+Bryan,General Manager,70000
+David,Accountant,6000000
+Dave,Instructor,100000
+HiHi,Accountant,1000
+Nyi,Accountant,300
